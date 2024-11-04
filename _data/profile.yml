@@ -5,7 +5,7 @@ navbar_name: "Yuma Tokunaga's page"
 positions:
   - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Macao Polytechnic University" class="inline-badge"/></span> M.S., Macao Polytechnic University (2024)'
 
-email: "wrs6@88.com"
+email: "tokunagamuy@gmail.com"
 gscholar: SSaBaioAAAAJ
 sscholar: Rongsheng-Wang/2261313297
 github: wangrongsheng
@@ -31,10 +31,10 @@ education:
   logo: assets/images/badges/mpu_master.png
   position: M.S. in Big Data and Internet of Things
   date: Sep. 2022 - Jul. 2024
-- name: Henan Polytechnic University
-  logo: assets/images/badges/hpu_bs.png
-  position: B.S. in Computer Science (AI)
-  date: Sep. 2018 - Jul. 2022
+- name: Waseda University
+  logo: assets/images/badges/waseda.png
+  position: B.A. in Economics
+  date: Apl. 2022 - Mar. 2026
   
 experience:
 - name: Qiyuan.Tech
