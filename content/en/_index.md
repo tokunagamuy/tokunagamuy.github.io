@@ -3,13 +3,13 @@ title: "Marcos Vinícius"
 description: "Senior Machine Learning Engineer | AI Engineer @ Nubank"
 ---
 
-## Hero Section / Greeter
+## Hello World
 
 **Senior Machine Learning Engineer | AI Engineer @ Nubank**
 
-I'm Marcos, a writer, a passionate reader, and a computer scientist. I currently work as a Machine Learning Engineer focused on building ML platform products. At Nubank, my engineer role centers on elevating credit card operational platforms through the creation of efficient frameworks, ensuring both reliability and scalability.
+I'm Marcos, a writer, a passionate reader, and a computer scientist. I currently work as a Machine Learning Engineer on a frontline team building all the intelligence and AI capabilities to power the future AI Private Banker and turning this into a platform to serve many teams within the company. 
 
-The journey with my global team has led to significant improvements in the deployment of innovative policies and models, ultimately enhancing our operational efficiency. My tenure at Nubank has been marked by leadership in transforming monolithic applications into modular systems, which has drastically optimized costs and improved platform dependability.
+Additionally, I'm designing and building the platform for the AI Private Banker that will serve product teams to enable scaling agentic solutions across different product fronts. I also lead the development of an Investments AI Agent focused on answering key questions about customer portfolios in natural language, elevating the way customers interact with their investments.
 
 In my past experiences, I've also worked as a Data Scientist building models to generate business impacts for fields like water management, network analysis, and fuel/retail demand.
 
