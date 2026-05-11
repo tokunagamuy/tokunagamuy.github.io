@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Markdown Test Page"
-tags: tag1 tag3
+title: "記事"
+tags: 数学 純文学
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
